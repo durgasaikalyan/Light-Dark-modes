@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.button {
+  display: flex;
+}
+
+.dark-mode {
+  background-color: black;
+}
+
+.Light-mode {
+  background-color: #ffffff;
+}
